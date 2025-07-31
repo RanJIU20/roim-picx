@@ -56,9 +56,9 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
-const repoLink = 'https://picxuu.r9jade.dpdns.org'
+const repoLink = 'https://picxuu.r9jade.dpdns.org/up'
 const repoName = 'RANJIU-picx'
-const appName = 'PICX'
+const appName = 'RANJIU-PICX'
 
 document.title = appName
 
